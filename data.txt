@@ -1,0 +1,13 @@
+GRE: 200.0, GPA: 0.01, Rank: 1, Admission: Admitted
+GRE: 201.0, GPA: 0.14, Rank: 2, Admission: Admitted
+GRE: 800.0, GPA: 3.89, Rank: 2, Admission: Admitted
+GRE: 560.0, GPA: 3.49, Rank: 4, Admission: Admitted
+GRE: 560.0, GPA: 3.48, Rank: 4, Admission: Admitted
+GRE: 600.0, GPA: 3.89, Rank: 3, Admission: Admitted
+GRE: 600.0, GPA: 3.89, Rank: 4, Admission: Admitted,Feedback: hii
+GRE: 460.0, GPA: 2.93, Rank: 3, Admission: Admitted,Feedback: 
+GRE: 460.0, GPA: 3.63, Rank: 3, Admission: Admitted,Feedback: 
+GRE: 200.0, GPA: 0.01, Rank: 1, Admission: Admitted,Feedback: 
+GRE: 200.0, GPA: 0.01, Rank: 1, Admission: Admitted,Feedback: he will be admit 
+GRE: 222.0, GPA: 3.0, Rank: 2, Admission: Admitted,Feedback: 
+GRE: 400.0, GPA: 3.08, Rank: 2, Admission: Admitted,Feedback: 
